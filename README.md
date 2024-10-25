@@ -9,8 +9,7 @@
 同时，更多的角色、物品、功能将陆续加入，请关注[@栎曦_Nuo](https://space.bilibili.com/14004864) 和本仓库以获得最新的更新。  
 
 如果在使用过程中遇到任何问题，可以私信我[@哦哟喔嚯](https://space.bilibili.com/39307302)或者在[Issues页面](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/issues)提出。
-
-:warning:  ~~近期本人忙于博士毕业和找工作的各种事情，框架暂时无法及时更新，十分抱歉。预计将于10月中旬恢复修复和稳定更新。~~:beers:  
+  
 正在进行一轮新的UI重构，同时在增加便捷的操作功能，过于繁忙可能更新缓慢，见谅！
  
   
